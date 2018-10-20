@@ -1,0 +1,21 @@
+c:\documents and settings\anatoliy\мои документы\visual studio 2010\Projects\DPF\DPF\bin\Debug\DPF.exe
+c:\documents and settings\anatoliy\мои документы\visual studio 2010\Projects\DPF\DPF\bin\Debug\DPF.pdb
+c:\documents and settings\anatoliy\мои документы\visual studio 2010\Projects\DPF\DPF\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\anatoliy\мои документы\visual studio 2010\Projects\DPF\DPF\obj\x86\Debug\DPF.Form1.resources
+c:\documents and settings\anatoliy\мои документы\visual studio 2010\Projects\DPF\DPF\obj\x86\Debug\DPF.FormGrafic.resources
+c:\documents and settings\anatoliy\мои документы\visual studio 2010\Projects\DPF\DPF\obj\x86\Debug\DPF.Properties.Resources.resources
+c:\documents and settings\anatoliy\мои документы\visual studio 2010\Projects\DPF\DPF\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\anatoliy\мои документы\visual studio 2010\Projects\DPF\DPF\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\anatoliy\мои документы\visual studio 2010\Projects\DPF\DPF\obj\x86\Debug\DPF.exe
+c:\documents and settings\anatoliy\мои документы\visual studio 2010\Projects\DPF\DPF\obj\x86\Debug\DPF.pdb
+D:\Projects MVS\С#\DPF\DPF\DPF\bin\Debug\DPF.exe
+D:\Projects MVS\С#\DPF\DPF\DPF\bin\Debug\DPF.pdb
+D:\Projects MVS\С#\DPF\DPF\DPF\obj\x86\Debug\DPF.csprojAssemblyReference.cache
+D:\Projects MVS\С#\DPF\DPF\DPF\obj\x86\Debug\DPF.Form1.resources
+D:\Projects MVS\С#\DPF\DPF\DPF\obj\x86\Debug\DPF.FormGrafic.resources
+D:\Projects MVS\С#\DPF\DPF\DPF\obj\x86\Debug\DPF.Properties.Resources.resources
+D:\Projects MVS\С#\DPF\DPF\DPF\obj\x86\Debug\DPF.csproj.GenerateResource.cache
+D:\Projects MVS\С#\DPF\DPF\DPF\obj\x86\Debug\DPF.csproj.CoreCompileInputs.cache
+D:\Projects MVS\С#\DPF\DPF\DPF\obj\x86\Debug\DPF.exe
+D:\Projects MVS\С#\DPF\DPF\DPF\obj\x86\Debug\DPF.pdb
+D:\Projects MVS\С#\DPF\DPF\DPF\obj\x86\Debug\DPF.FormN.resources
